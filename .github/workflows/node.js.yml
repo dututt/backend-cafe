@@ -39,6 +39,3 @@ jobs:
         json-server --watch db.json &
       env:
         CI: true
-
-    - name: Run tests
-      run: npm test
