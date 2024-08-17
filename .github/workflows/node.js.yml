@@ -29,10 +29,10 @@ jobs:
 
     - name: Install dependencies
       run: npm install json-server
-      
+
     - run: npm ci
     - run: npm run build --if-present
     # - run: npm test
 
     - name: Start JSON Server
-      run: json-server --watch db.json --port 8000
+      run: npm run json-server --watch db.json --port 8000
