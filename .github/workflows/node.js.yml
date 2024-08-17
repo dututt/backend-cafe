@@ -36,6 +36,6 @@ jobs:
     - name: Start json-server
       run: |
         npm install -g json-server
-        json-server --watch db.json &
+        json-server --watch db.json --port 8000
       env:
         CI: true
