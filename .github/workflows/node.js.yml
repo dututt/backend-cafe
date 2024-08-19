@@ -32,17 +32,3 @@ jobs:
 
     - name: Install dependencies
       run: npm install
-
-    - name: Start json-server
-      run: |
-        npm install -g json-server
-        json-server --watch db.json --port 8000
-      env:
-        CI: true
-
-    - name: Make API request
-      uses: fjogeleit/http-request-action@v1
-      with:
-        url: 'http://localhost:8000/blogs/1'
-        method: 'GET'
-        id: 'getBlogs'
