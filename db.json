@@ -1,20 +1,18 @@
 {
   "blogs": [
     {
-      "id": 1,
-      "title": "What is Lorem Ipsum?",
+      "title": "Trà sữa trân châu đường đen",
+      "content": "Thử giản với Trà sữa trân châu đường đen",
+      "image": "https://i.etsystatic.com/5199962/r/il/df07c1/5279871664/il_600x600.5279871664_8yq2.jpg",
       "type": 2,
-      "author": "Eric",
-      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-      "image": "https://i.etsystatic.com/5199962/r/il/df07c1/5279871664/il_600x600.5279871664_8yq2.jpg"
+      "id": 1
     },
     {
-      "id": 2,
       "title": "Why do we use it?",
+      "content": "It is a long established fact that a reader will be distracted by the readable....",
+      "image": "https://th.bing.com/th/id/R.a50313fea355df3865470e5efec9d76b?rik=EN9B52AnoQdo0Q&pid=ImgRaw&r=0",
       "type": 1,
-      "author": "Eric",
-      "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
-      "image": "https://th.bing.com/th/id/R.a50313fea355df3865470e5efec9d76b?rik=EN9B52AnoQdo0Q&pid=ImgRaw&r=0"
+      "id": 2
     },
     {
       "id": 3,
@@ -25,32 +23,30 @@
       "image": "https://th.bing.com/th/id/OIP.yJifpXELr5q1JMApAGJIMwAAAA?rs=1&pid=ImgDetMain"
     },
     {
-      "id": 4,
       "title": "Why do we use it?",
+      "content": "It is a long established fact that a reader will be distracted by the readable...",
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/max_808/c29712191227931.Y3JvcCwzMjAzLDI1MDUsMCwyMzc4.jpg",
       "type": 2,
-      "author": "Eric",
-      "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
-      "image": "https://mir-s3-cdn-cf.behance.net/projects/max_808/c29712191227931.Y3JvcCwzMjAzLDI1MDUsMCwyMzc4.jpg"
+      "id": 4
     },
     {
-      "id": 5,
       "title": "Where can I get some?",
+      "content": "There are many variations of passages of Lorem Ipsum available",
+      "image": "https://th.bing.com/th/id/R.b03f1e5ed80cfd791fac3c100238445e?rik=6LWmQT6iw6mKvA&pid=ImgRaw&r=0",
       "type": 1,
-      "author": "Eric",
-      "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
-      "image": "https://th.bing.com/th/id/R.b03f1e5ed80cfd791fac3c100238445e?rik=6LWmQT6iw6mKvA&pid=ImgRaw&r=0"
+      "id": 5
     },
     {
       "title": "Tra dao",
       "content": "Test tra dao",
-      "image": "C:\\fakepath\\IMG_6085.jpeg",
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/max_808/c29712191227931.Y3JvcCwzMjAzLDI1MDUsMCwyMzc4.jpg",
       "type": 2,
       "id": 6
     },
     {
       "title": "Tra dao",
       "content": "Test tra dao l2",
-      "image": "C:\\fakepath\\IMG_6080.jpeg",
+      "image": "https://th.bing.com/th/id/R.b03f1e5ed80cfd791fac3c100238445e?rik=6LWmQT6iw6mKvA&pid=ImgRaw&r=0",
       "type": 1,
       "id": 7
     },
@@ -58,8 +54,15 @@
       "title": "Tra sua matcha",
       "content": "Test tra sua",
       "type": 1,
-      "image": "",
+      "image": "https://th.bing.com/th/id/R.b03f1e5ed80cfd791fac3c100238445e?rik=6LWmQT6iw6mKvA&pid=ImgRaw&r=0",
       "id": 8
+    },
+    {
+      "title": "Trà vải",
+      "content": "Thức uống tươi mát",
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/max_808/c29712191227931.Y3JvcCwzMjAzLDI1MDUsMCwyMzc4.jpg",
+      "type": 2,
+      "id": 9
     }
   ]
 }
