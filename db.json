@@ -1,8 +1,8 @@
 {
   "blogs": [
     {
-      "title": "Trà sữa trân châu đường đen",
-      "content": "Thử giản với Trà sữa trân châu đường đen",
+      "title": "What is Lorem Ipsum?",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
       "image": "https://i.etsystatic.com/5199962/r/il/df07c1/5279871664/il_600x600.5279871664_8yq2.jpg",
       "type": 2,
       "id": 1
@@ -53,8 +53,8 @@
     {
       "title": "Tra sua matcha",
       "content": "Test tra sua",
+      "image": "C:\\fakepath\\IMG_6091.jpeg",
       "type": 1,
-      "image": "https://th.bing.com/th/id/R.b03f1e5ed80cfd791fac3c100238445e?rik=6LWmQT6iw6mKvA&pid=ImgRaw&r=0",
       "id": 8
     },
     {
